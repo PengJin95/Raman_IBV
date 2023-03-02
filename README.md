@@ -3,7 +3,7 @@
 ### [Project Page]() | [Paper]() (TBD upon publication)
 
 <div align=center>
-<img src="assets/teaser.png" width="100%"/>
+<img src="assets/Teaser.png" width="100%"/>
 </div>
 
 > **Strain-level Identification and Analysis of Avian Coronavirus Using Raman Spectroscopy and Interpretable Machine Learning**
