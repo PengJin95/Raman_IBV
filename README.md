@@ -6,8 +6,8 @@
 <img src="assets/Teaser.png" width="100%"/>
 </div>
 
-> **Strain-level Identification and Analysis of Avian Coronavirus Using Raman Spectroscopy and Interpretable Machine Learning**
-> Peng Jin, Yin-Ting Yeh, Jiarong Ye, Ziyang Wang, Yuan Xue, Na Zhang, Shengxi Huang, Elodie Ghedin, Huaguang Lu, Anthony Schmitt, Sharon X. Huang, Mauricio Terrones
+> **Strain-level Identification and Analysis of Avian Coronavirus Using Raman Spectroscopy and Interpretable Machine Learning** <br>
+> Peng Jin, Yin-Ting Yeh, Jiarong Ye, Ziyang Wang, Yuan Xue, Na Zhang, Shengxi Huang, Elodie Ghedin, Huaguang Lu, Anthony Schmitt, Sharon X. Huang, Mauricio Terrones. <br>
 > ISBI 2023
 
 The codes and the dataset will be updated once ready. 
